@@ -4,26 +4,25 @@ Project Requirements:
 
 - Project Goal:
 
-  - Build Something Awesome
+  - Build a website that takes in a location and draws up map markers for potential places of living with details such as pricing and bedroom space. 
+  
+ Project link: https://vanessa-wiedeman-cs.github.io/Reinvent-rent/
+ Note: Monthly charge for using Rent Api, so app is not full functioning. With API key we are able to compare housing in an area code. 
 
 - Requirements:
 
-  - Must uses at least two APIs
+  - Uses at least two APIs
 
-  - Must use AJAX to pull data
+  - Uses AJAX to pull data
 
-  - Must utilize at least one new library or technology that we haven't discussed
+  - Uses JS library using some input validation
 
-  - Must have a polished frontend / UI
+  - Simple Front-end/UI using bootstrap to focus on the technology vs aesthetic. 
 
-  - Must meet good quality coding standards (indentation, scoping, naming)
+  - Quality coding standards using Prettier (indentation, scoping, naming)
 
-  - Must NOT use alerts, confirms, or prompts (look into modals!)
+  - Uses a table for information
 
-  - Must have some sort of repeating element (table, columns, etc)
-
-  - Must use Bootstrap or Alternative CSS Framework
-
-  - Must be Deployed (GitHub Pages or Firebase)
-
-  - Must have User Input Validation
+  - Deployed (GitHub Pages)
+  
+  
