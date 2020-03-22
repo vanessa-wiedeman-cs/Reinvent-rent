@@ -1,5 +1,5 @@
 # Reinvent Rent
-#### Test-Project-1
+#### Project-1
 
 Project Requirements:
 
