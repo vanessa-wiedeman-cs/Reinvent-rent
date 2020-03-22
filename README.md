@@ -8,7 +8,7 @@ Project Requirements:
   
  Project link: https://vanessa-wiedeman-cs.github.io/Reinvent-rent/  
    
-  Note: Monthly charge for using Rent Api, so app is not full functioning. With API key we are able to compare housing in an area code. 
+ **Note: Monthly charge for using Rent Api, so app is not full functioning. With API key we are able to compare housing in an area code. 
 
 - Requirements:
 
